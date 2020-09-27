@@ -6,32 +6,33 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Projects](./project_page.md).
 [Github Project](https://github.com/tgalicia).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
 # Moving to Tech
 I have always had a love of exploring the why and how behind everything. Once I got behind the scenes of deployed applications, I was all in. My years in education have prepared me for a career in tech with the following skills:
 
 *   Strong Communication
     
+    
 *   Ability to Manage Multiple Projects at once 
+    
     
 *   Team Collaboration 
     
-*   Time Management 
     
+*   Time Management 
+
+
+
     
 * * *    
 
 
 
 
+
 ## Tools I'm Comfortable with
 
-![Kubernetes](./assets/css/kubernetes-logo.png)     ![Docker](./assets/css/docker_logo_ab.png)         ![AWS](./assets/css/aws_logo.png)
-        ![Python](./assets/css/python.png)
+![Kubernetes](./assets/css/kubernetes-logo.png)  ![Python](./assets/css/python.png).     ![Docker](./assets/css/docker_logo_ab.png)         ![AWS](./assets/css/aws_logo.png)
+        
 
 > This is a blockquote following a header.
 >
