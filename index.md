@@ -30,7 +30,7 @@ I have always had a love of exploring the why and how behind everything. Once I 
 
 ## Tools I'm Comfortable with
 
-![thumbnail](./thumbnail.png) 
+![thumbnail](https://github.com/tgalicia/tgalicia.github.io/thumbnail.png) 
 
 > This is a blockquote following a header.
 >
