@@ -25,7 +25,12 @@ I have always had a love of exploring the why and how behind everything. Once I 
     
 * * *    
 
-## Header 2
+
+
+
+## Tools I'm Comfortable with
+
+![thumbnail](./thumbnail.png) 
 
 > This is a blockquote following a header.
 >
