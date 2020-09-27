@@ -1,11 +1,12 @@
 ---
 layout: default
-title: Another page
+title: Projects
 description: This is just another page
 ---
 
 ## Welcome to another page
 
-_yay_
+Below you will find brief descriptions of completed projects. 
+
 
 [back](./)
