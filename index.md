@@ -4,7 +4,7 @@ layout: default
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Projects](./projects.md).
+[Projects](./project_page.md).
 [Github Project](https://github.com/tgalicia).
 
 There should be whitespace between paragraphs.
