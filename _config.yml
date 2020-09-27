@@ -9,4 +9,6 @@ github:
     projects_url: https://github.com/tgalicia
 docker:
     images_url: https://hub.docker.com/u/tgalicia
+resume:
+    url: ./Resume_TG_2020.docx
 
