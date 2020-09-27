@@ -11,8 +11,19 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Moving into Tech
-I have always had a love of learning how and why things work the way they do. This constant want to learn and improve has lead me down the DevOps path. 
+# Moving to Tech
+I have always had a love of exploring the why and how behind everything. Once I got behind the scenes of deployed applications, I was all in. My years in education have prepared me for a career in tech with the following skills:
+
+*   Strong Communication
+    
+*   Ability to Manage Multiple Projects at once 
+    
+*   Team Collaboration 
+    
+*   Time Management 
+    
+    
+* * *    
 
 ## Header 2
 
