@@ -31,8 +31,8 @@ I have always had a love of exploring the why and how behind everything. Once I 
 
 ## Tools I'm Comfortable with
 
-![Kubernetes](./assets/css/kubernetes-logo.png)        ![Docker](./assets/css/docker_logo_ab.png)        ![AWS](./assets/css/aws_logo.png)
- ![Python](./assets/css/python-language-logo.jpg)       !RHEL(./assets/css/RHEL_logo.svg)
+![Kubernetes](./assets/css/kubernetes-logo.png)        ![Docker](./assets/css/docker_logo_ab.png)      
+![AWS](./assets/css/aws_logo.png).               !RHEL(./assets/css/RHEL_logo.png)
         
 
 > This is a blockquote following a header.
