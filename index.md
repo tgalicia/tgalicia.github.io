@@ -37,8 +37,4 @@ I have always had a love of exploring the why and how behind everything. Once I 
 
 * * *
 
-### Feel free to Check out my Personal Projects
-
-[Projects](./project_page.md).
-
 
