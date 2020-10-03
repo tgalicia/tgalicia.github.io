@@ -6,9 +6,8 @@ theme: jekyll-theme-cayman
 linkedin:
     url: https://www.linkedin.com/in/tiffany-galicia-288a091a8/
 github:
-    projects_url: https://github.com/tgalicia
-github:
-    pythonprojects_url: https://github.com/tgalicia/python
+    projects_url:(./projects_page.md)
+
 resume:
     url: ./Resume_new.docx
 
