@@ -33,7 +33,7 @@ I have always had a love of exploring the why and how behind everything. Once I 
 
 ## Tools I'm Comfortable with
 
-![logos](./assets/css/Screen Shot 2020-10-03 at 1.46.22 PM.png)
+![logos](./assets/css/logos.png)
 
 
 
