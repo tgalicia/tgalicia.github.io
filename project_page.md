@@ -7,8 +7,11 @@ Below you will find brief descriptions of completed projects. You can also check
 #### Spacebones Project
 *   For this project, I created the dockerfile to run this java application on a local server. 
 ![shot1](./assets/css/screenshots/Spacebones_1.png)
+
 ![shot1](./assets/css/screenshots/Spacebones_2.png)
+
 ![shot1](./assets/css/screenshots/Spacebones_3.png)
+
 ![shot1](./assets/css/screenshots/Spacebones_4.png)
 
 * * * 
