@@ -22,5 +22,13 @@ Below you will find brief descriptions of completed projects. You can also check
 ![shot1](./assets/css/screenshots/ghost_blog2.png)
 ![shot1](./assets/css/screenshots/ghost_blog3.png)
 
+* * *
+
+#### Train Schedule Project
+*   For this project, I created the dockerfile for the static train schedule app. Then I deployed the app from my SCM(Github) using Jenkins to a deployment server.
+![shot1](./assets/css/screenshots/Jenkins_pipeline1.png)
+![shot1](./assets/css/screenshots/Jenkins_pipeline2.png)
+![shot1](./assets/css/screenshots/Jenkins_pipeline3.png)
+![shot1](./assets/css/screenshots/Jenkins_pipeline4.png)
 
 [back](./)
